@@ -1,2 +1,2 @@
 # facility
-website: https://thefacility.netlify.app
+website: https://prototyperror.github.io/facility/
