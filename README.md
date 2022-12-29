@@ -1,2 +1,2 @@
 # facility
-website: https://prototyperror.github.io/facility/
+website: https://protoplosion.github.io/facility/
